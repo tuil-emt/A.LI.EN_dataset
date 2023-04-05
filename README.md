@@ -7,9 +7,9 @@ The data is to be uploaded soon!
 The following people have contributed to the dateset:
 
 * Tatiana Surdu
-* Lukas Treybig
-* Paul Popp
 * Christian Schneiderwind
+* Paul Popp
+* Lukas Treybig
 * Stephan Werner
 
 ## Acknowledgments
@@ -18,7 +18,7 @@ If you use the dateset please cite the following paper:
 ```bibtex
 @inproceedings{surdu2023alien,
   title={A.LI.EN: An audiovisual dataset of different acoustical impulse responses measured in a living room environment},
-  author={Surdu,Tatiana and Treybig,Lukas and Popp,Paul and Schneiderwind,Christian and Werner, Stephan},
+  author={Surdu,Tatiana and Schneiderwind,Christian and Popp,Paul and Treybig,Lukas and Werner, Stephan},
   booktitle={Tagungsband-DAGA 2023: 49. Jahrestagung f{\"u}r Akustik}
 }
 ```
