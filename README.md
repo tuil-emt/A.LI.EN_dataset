@@ -2,7 +2,6 @@
 A.LI.EN Dateset --  An audiovisual dataset of different acoustical impulse responses measured in a living room environment
 
 To download the data for the publication use the following [link](https://resdata.tu-ilmenau.de/public/ei/emt/a_li_en/).
-The data is to be uploaded soon!
 
 The following people have contributed to the dateset:
 
